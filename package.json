@@ -2,7 +2,7 @@
   "name": "nutui-taro-starter",
   "version": "1.0.0",
   "private": true,
-  "description": "nutui taro starter 是一个基于nutui实现的快速开发脚手架，提供开发所需的所有基本功能。",
+  "description": "nutui taro starter 是一个基于nutui实现的快速开发脚手架,提供开发所需的所有基本功能。",
   "templateInfo": {
     "name": "vue3-NutUI",
     "typescript": true,
@@ -33,7 +33,7 @@
     "Android >= 4.1",
     "ios >= 8"
   ],
-  "author": "",
+  "author": "Ryan SU",
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
